@@ -1,0 +1,14 @@
+footer {
+  position: fixed;
+  bottom:0;
+  left:0;
+}
+.insta{
+  font-size: 1.5rem;
+}
+.fb{
+  font-size:1.5rem;
+}
+.youtube{
+  font-size:1.5rem;
+}
